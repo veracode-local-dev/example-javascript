@@ -1,6 +1,5 @@
 # [:] Example Node Project
-test1
-
+test2
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans.
 1
 ## Try me!
