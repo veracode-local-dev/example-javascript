@@ -1,0 +1,2 @@
+veracode_static_scan:
+  profile: example-javascript-custom-profile
